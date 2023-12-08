@@ -1,0 +1,29 @@
+{
+  "name": "alchemy_final_project_luis_almeida",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luis-almeida-intellecteu/Alchemy_Final_Project_Luis_Almeida.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luis-almeida-intellecteu/Alchemy_Final_Project_Luis_Almeida/issues"
+  },
+  "homepage": "https://github.com/luis-almeida-intellecteu/Alchemy_Final_Project_Luis_Almeida#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.1"
+  }
+}
